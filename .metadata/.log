@@ -1,0 +1,30 @@
+!SESSION 2024-09-19 18:07:31.434 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-19 18:07:54.277
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-19 18:07:54.300
+!MESSAGE Log4j2 initialized with config file E:\STM32CubeIDE\lwipClient\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-19 18:07:59.383
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-09-19 18:08:29.208
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-09-19 18:08:29.526
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/eclipse/2022-03.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-09-19 18:08:30.111
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-09-19 18:08:37.975
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/eclipse/2022-03/releases.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-09-19 18:08:51.121
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/eclipse.
