@@ -1,0 +1,10 @@
+../Core/Inc/tcp_client_raw.h:70:13:tcp_client_send	7
+../Core/Inc/tcp_client_raw.h:112:13:tcp_client_handler	1
+../Core/Inc/tcp_client_raw.h:139:13:tcp_client_connectin_close	1
+../Core/Inc/tcp_client_raw.h:154:13:input_config_data	6
+../Core/Src/tcp_client_raw.c:34:6:tcp_client_init	2
+../Core/Src/tcp_client_raw.c:85:14:tcp_client_connect	2
+../Core/Src/tcp_client_raw.c:130:14:tcp_client_sent	3
+../Core/Src/tcp_client_raw.c:164:14:tcp_client_recive	6
+../Core/Src/tcp_client_raw.c:231:14:tcp_client_poll	5
+../Core/Src/tcp_client_raw.c:298:13:tcp_client_err	1
