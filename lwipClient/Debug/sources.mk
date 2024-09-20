@@ -37,6 +37,8 @@ Middlewares/Third_Party/LwIP/src/core/ipv4 \
 Middlewares/Third_Party/LwIP/src/core/ipv6 \
 Middlewares/Third_Party/LwIP/src/netif \
 Middlewares/Third_Party/LwIP/src/netif/ppp \
+Middlewares/Third_Party/ST/STM32_USB_Device_Library/Class/CDC/Src \
+Middlewares/Third_Party/ST/STM32_USB_Device_Library/Core/Src \
 USB_DEVICE/App \
 USB_DEVICE/Target \
 
